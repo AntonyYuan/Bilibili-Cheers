@@ -1,6 +1,7 @@
-#include<2014信息班>
+﻿#include<2014信息班>
 using namespace Suruin
 int main()
 {
     Classmate RunSu;
+    return 0;
 }
